@@ -18720,8 +18720,11 @@ padding: 1.5rem;
 }
 .ego{
   position:absolute;
-  right:0;
-  bottom:0;
-  z-intex:-1;
-
+  right:0px;
+  left:0px;
+  bottom:0px;
+  top:0px;
+  height:100%;
+  width:100%;
+    
 }
