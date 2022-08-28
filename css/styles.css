@@ -18718,4 +18718,10 @@ padding: 1.5rem;
   text-align: center;
   background-color: #fff
 }
+.ego{
+  position:absolute;
+  right:0;
+  bottom:0;
+  z-intex:-1;
 
+}
