@@ -18719,8 +18719,9 @@ padding: 1.5rem;
   background-color: #fff
 }
 .ego{
-  position:absolute;
+  background-position:center;
   right:0;
+  left:0;
   bottom:0;
   z-intex:-1;
 
